@@ -54,4 +54,4 @@ This is valid DCAT-AP+ instance data. Every class and property is mapped to an e
 
 ## Source code
 
-The LinkML schema, build scripts, and documentation source are on GitHub: [nfdi-de/dcat-ap-plus](https://github.com/nfdi-de/dcat-ap-plus)
+The LinkML schema, build scripts, and documentation source are on GitHub: [nfdi-de/dcat-ap-plus](https://github.com/HendrikBorgelt/test_dcat_ap_plus_versioning_freeze)

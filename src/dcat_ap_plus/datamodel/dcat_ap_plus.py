@@ -2,7 +2,7 @@
 # Generation date: 2026-01-26T14:14:50
 # Schema: dcat-ap-plus
 #
-# id: https://w3id.org/nfdi-de/dcat-ap-plus/
+# id: https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/
 # description: This metadata schema is an Extension of the DCAT Application Profile for Providing Links to Use-case Specific Context. It allows to provide additional metadata regarding: which kind(s) of entity(s) or activity(s) were evaluated (the dcat:Dataset is about), which kind of activity generated the dcat:Dataset, which kind of instruments were used in the dataset generating activity, in which surrounding (e.g. a laboratory) and according to which plan the dataset generating activity took place, as well as regarding which kind(s) of qualitative and quantitative characteristic were attributed to the evaluated entity or evaluated activity and to the used instruments.
 # license: CC-BY 4.0
 
@@ -73,7 +73,7 @@ SOSA = CurieNamespace('SOSA', 'http://www.w3.org/ns/sosa/')
 ADMS = CurieNamespace('adms', 'http://www.w3.org/ns/adms#')
 DCAT = CurieNamespace('dcat', 'http://www.w3.org/ns/dcat#')
 DCATAP = CurieNamespace('dcatap', 'http://data.europa.eu/r5r/')
-DCATAPPLUS = CurieNamespace('dcatapplus', 'https://w3id.org/nfdi-de/dcat-ap-plus/')
+DCATAPPLUS = CurieNamespace('dcatapplus', 'https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/')
 DCTERMS = CurieNamespace('dcterms', 'http://purl.org/dc/terms/')
 ELI = CurieNamespace('eli', 'http://data.europa.eu/eli/ontology#')
 EPOS = CurieNamespace('epos', 'https://www.epos-eu.org/epos-dcat-ap#')

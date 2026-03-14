@@ -1,7 +1,7 @@
 ---
 site_name: "DCAT-AP+ Documentation"
-site_url: https://nfdi-de.github.io/dcat-ap-plus
-repo_url: https://github.com/nfdi-de/dcat-ap-plus
+site_url: https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze
+repo_url: https://github.com/HendrikBorgelt/test_dcat_ap_plus_versioning_freeze
 
 theme:
   name: material

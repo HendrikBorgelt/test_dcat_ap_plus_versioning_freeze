@@ -6,4 +6,4 @@ Generators transform a linkml schema into another datamodel such as SQL or RDF, 
 
 We only distribute selected model representations, such as SHACL or JSON-LD which we have checked and use ourselves.
 If you need other representations, we suggest you to run the LinkML generators locally.
-Create an [issue](https://github.com/nfdi-de/dcat-ap-plus/issues), if you need other generated model representations than the default set built for dcat-ap-plus.
+Create an [issue](https://github.com/HendrikBorgelt/test_dcat_ap_plus_versioning_freeze/issues), if you need other generated model representations than the default set built for dcat-ap-plus.

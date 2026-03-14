@@ -38,8 +38,8 @@ print(ds)
 
 ## Documentation
 
-- Project docs and schema reference: <https://nfdi-de.github.io/dcat-ap-plus>
-- Source code: <https://github.com/nfdi-de/dcat-ap-plus>
+- Project docs and schema reference: <https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze>
+- Source code: <https://github.com/HendrikBorgelt/test_dcat_ap_plus_versioning_freeze>
 
 ## License
 

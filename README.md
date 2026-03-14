@@ -1,1 +1,1 @@
-This is mearly a test implementation of the repo found [here](https://github.com/nfdi-de/dcat-ap-plus), which is intended as a testground for checking whether we can freeze schema versions of our LinkML schema.
+This is mearly a test implementation of the repo found [here](https://github.com/HendrikBorgelt/test_dcat_ap_plus_versioning_freeze), which is intended as a testground for checking whether we can freeze schema versions of our LinkML schema.

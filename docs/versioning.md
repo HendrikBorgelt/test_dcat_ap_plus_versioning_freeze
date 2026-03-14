@@ -18,7 +18,7 @@ Given a version number **MODEL.REVISION.ADDITION**:
 - **REVISION** (0.1.x → 0.2.0): Making `rdf_type` on `DataGeneratingActivity` mandatory (previously recommended)
 - **MODEL** (0.x.y → 1.0.0): Restructuring the `QuantitativeAttribute` to use a different ontology alignment
 
-Versions are tagged in git (e.g. `v1.2.3`) and published as [GitHub releases](https://github.com/nfdi-de/dcat-ap-plus/releases) with changelogs.
+Versions are tagged in git (e.g. `v1.2.3`) and published as [GitHub releases](https://github.com/HendrikBorgelt/test_dcat_ap_plus_versioning_freeze/releases) with changelogs.
 
 ## Relationship to DCAT-AP versions
 

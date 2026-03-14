@@ -9,7 +9,7 @@ from linkml_runtime.linkml_model import SlotDefinition, TypeDefinition, ClassDef
 
 # Constants
 DESCRIPTION1 = """
-This LinkML schema representation of DCAT-AP 3.0.0 was automatically created from these [JSON-LD SHACL shapes](https://github.com/SEMICeu/DCAT-AP/blob/master/releases/3.0.0/shacl/dcat-ap-SHACL.jsonld) using a Python script (https://github.com/nfdi-de/dcat-ap-plus/blob/main/src/dcat_ap_shacl_2_linkml.py).
+This LinkML schema representation of DCAT-AP 3.0.0 was automatically created from these [JSON-LD SHACL shapes](https://github.com/SEMICeu/DCAT-AP/blob/master/releases/3.0.0/shacl/dcat-ap-SHACL.jsonld) using a Python script (https://github.com/HendrikBorgelt/test_dcat_ap_plus_versioning_freeze/blob/main/src/dcat_ap_shacl_2_linkml.py).
 """.replace('\n', '')
 
 NOTE = """
@@ -385,11 +385,11 @@ def build_dcatap_linkml():
     print('\n   --- Building the DCAT-AP LinkML representation ---')
 
     builder = SchemaBuilder(name="dcat-ap-linkml")
-    builder.schema.id = 'https://w3id.org/nfdi-de/dcat-ap-linkml'
+    builder.schema.id = 'https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/dcat-ap-linkml'
     builder.schema.description = DESCRIPTION1 + '\nNOTE:' + NOTE
     builder.schema.default_prefix = 'dcatap_linkml'
     builder.schema.prefixes = PREFIX_MAP
-    builder.schema.prefixes['dcatap_linkml']='https://w3id.org/nfdi-de/dcat-ap-linkml/'
+    builder.schema.prefixes['dcatap_linkml']='https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/dcat-ap-linkml/'
     builder.schema.title = 'LinkML schema representation of DCAT-AP 3.0.0'
     builder.schema.license = 'CC-BY 4.0'
     builder.schema.default_range = 'string'
@@ -962,11 +962,11 @@ def build_dcatap_plus():
     # Initialize the extended DCAT-AP LinkML schema
 
     builder = SchemaBuilder(name="dcat-ap-plus")
-    builder.schema.id = 'https://w3id.org/nfdi-de/dcat-ap-plus'
+    builder.schema.id = 'https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze'
     builder.schema.description = DESCRIPTION2
     builder.schema.default_prefix = 'dcatap_plus'
     builder.schema.prefixes = PREFIX_MAP
-    builder.schema.prefixes['dcatap_plus']='https://w3id.org/nfdi-de/dcat-ap-plus/'
+    builder.schema.prefixes['dcatap_plus']='https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/'
     builder.schema.prefixes['BFO']='http://purl.obolibrary.org/obo/BFO_'
     builder.schema.prefixes['OBI']='http://purl.obolibrary.org/obo/OBI_'
     builder.schema.prefixes['IAO'] = 'http://purl.obolibrary.org/obo/IAO_'

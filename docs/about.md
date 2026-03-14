@@ -23,4 +23,4 @@ This work is funded by the German Research Foundation (DFG) as part of the Natio
 
 ## License
 
-DCAT-AP+ is released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). The repository code is licensed under [MIT](https://github.com/nfdi-de/dcat-ap-plus/blob/main/LICENSE).
+DCAT-AP+ is released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). The repository code is licensed under [MIT](https://github.com/HendrikBorgelt/test_dcat_ap_plus_versioning_freeze/blob/main/LICENSE).
