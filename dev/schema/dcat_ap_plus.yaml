@@ -1,6 +1,6 @@
 ---
-id: https://w3id.org/nfdi-de/dcat-ap-plus/
-version: "0.0.0.post4.dev0+ebbcd65"  # Managed by dynamic-versioning. Don't change this line!
+id: https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/
+version: "0.0.0.post5.dev0+f0d6de5"  # Managed by dynamic-versioning. Don't change this line!
 name: dcat-ap-plus
 description: >-
   This metadata schema is an Extension of the DCAT Application Profile
@@ -53,7 +53,7 @@ prefixes:
   iana: https://www.iana.org/assignments/
   epos: https://www.epos-eu.org/epos-dcat-ap#
   schema: http://schema.org/
-  dcatapplus: https://w3id.org/nfdi-de/dcat-ap-plus/
+  dcatapplus: https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/
   BFO: http://purl.obolibrary.org/obo/BFO_
   OBI: http://purl.obolibrary.org/obo/OBI_
   IAO: http://purl.obolibrary.org/obo/IAO_

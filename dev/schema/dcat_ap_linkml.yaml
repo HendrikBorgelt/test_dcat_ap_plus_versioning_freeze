@@ -1,4 +1,4 @@
-id: https://w3id.org/nfdi-de/dcat-ap-linkml
+id: https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/dcat-ap-linkml
 name: dcat-ap-linkml
 description: 'This LinkML schema representation of DCAT-AP 3.0.0 was automatically
   created from these [JSON-LD SHACL shapes](https://github.com/SEMICeu/DCAT-AP/blob/master/releases/3.0.0/shacl/dcat-ap-SHACL.jsonld)
@@ -56,7 +56,7 @@ prefixes:
   iana: https://www.iana.org/assignments/
   epos: https://www.epos-eu.org/epos-dcat-ap#
   schema: https://schema.org/
-  dcatap_linkml: https://w3id.org/nfdi-de/dcat-ap-linkml/
+  dcatap_linkml: https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/dcat-ap-linkml/
 default_prefix: dcatap_linkml
 default_range: string
 types:
