@@ -1,751 +1,751 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/about/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/about/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/automatic-generation/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/automatic-generation/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/dcat-ap-plus-users/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/dcat-ap-plus-users/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/design-patterns/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/design-patterns/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/how-to-extend/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/how-to-extend/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/versioning/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/versioning/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/overview/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/overview/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Activity/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Activity/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Agent/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Agent/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/AgenticEntity/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/AgenticEntity/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/AnalysisDataset/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/AnalysisDataset/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/AnalysisSourceData/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/AnalysisSourceData/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Any/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Any/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Attribution/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Attribution/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Catalogue/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Catalogue/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/CatalogueRecord/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/CatalogueRecord/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Checksum/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Checksum/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/ChecksumAlgorithm/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/ChecksumAlgorithm/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/ClassifierMixin/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/ClassifierMixin/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Concept/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Concept/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/ConceptScheme/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/ConceptScheme/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/DataAnalysis/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/DataAnalysis/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/DataGeneratingActivity/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/DataGeneratingActivity/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/DataService/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/DataService/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Dataset/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Dataset/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/DatasetSeries/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/DatasetSeries/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/DefinedTerm/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/DefinedTerm/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Device/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Device/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Distribution/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Distribution/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Document/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Document/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Entity/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Entity/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/EvaluatedActivity/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/EvaluatedActivity/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/EvaluatedEntity/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/EvaluatedEntity/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Frequency/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Frequency/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Geometry/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Geometry/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Identifier/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Identifier/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Kind/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Kind/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/LegalResource/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/LegalResource/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/LicenseDocument/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/LicenseDocument/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/LinguisticSystem/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/LinguisticSystem/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Location/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Location/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/MediaType/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/MediaType/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/MediaTypeOrExtent/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/MediaTypeOrExtent/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/PeriodOfTime/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/PeriodOfTime/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Plan/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Plan/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Policy/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Policy/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/ProvenanceStatement/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/ProvenanceStatement/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/QualitativeAttribute/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/QualitativeAttribute/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/QuantitativeAttribute/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/QuantitativeAttribute/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Relationship/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Relationship/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Resource/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Resource/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/RightsStatement/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/RightsStatement/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Role/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Role/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Software/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Software/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Standard/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Standard/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/SupportiveEntity/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/SupportiveEntity/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Surrounding/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/Surrounding/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/TimeInstant/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/classes/TimeInstant/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/enums/DatasetThemes/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/enums/DatasetThemes/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/enums/QUDTQuantityKindEnum/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/enums/QUDTQuantityKindEnum/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/enums/QUDTUnitEnum/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/enums/QUDTUnitEnum/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/enums/TopLevelMediaTypes/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/enums/TopLevelMediaTypes/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/schemas/dcat-ap-plus/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/schemas/dcat-ap-plus/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/access_URL/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/access_URL/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/access_rights/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/access_rights/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/access_service/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/access_service/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/algorithm/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/algorithm/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/applicable_legislation/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/applicable_legislation/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/application_profile/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/application_profile/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/availability/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/availability/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/bbox/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/bbox/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/beginning/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/beginning/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/byte_size/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/byte_size/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/carried_out_by/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/carried_out_by/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/catalogue/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/catalogue/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/centroid/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/centroid/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/change_type/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/change_type/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/checksum/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/checksum/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/checksum_value/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/checksum_value/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/compression_format/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/compression_format/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/conforms_to/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/conforms_to/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/contact_point/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/contact_point/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/creator/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/creator/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/dataset_distribution/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/dataset_distribution/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/description/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/description/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/documentation/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/documentation/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/download_URL/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/download_URL/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/end/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/end/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/end_date/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/end_date/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/endpoint_URL/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/endpoint_URL/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/endpoint_description/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/endpoint_description/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/evaluated_activity/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/evaluated_activity/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/evaluated_entity/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/evaluated_entity/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/format/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/format/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/frequency/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/frequency/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/from_CV/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/from_CV/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/geographical_coverage/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/geographical_coverage/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/geometry/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/geometry/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/had_input_activity/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/had_input_activity/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/had_input_entity/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/had_input_entity/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/had_output_entity/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/had_output_entity/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/had_role/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/had_role/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/has_dataset/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/has_dataset/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/has_part/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/has_part/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/has_policy/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/has_policy/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/has_qualitative_attribute/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/has_qualitative_attribute/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/has_quantitative_attribute/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/has_quantitative_attribute/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/has_quantity_type/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/has_quantity_type/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/has_version/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/has_version/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/homepage/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/homepage/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/id/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/id/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/identifier/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/identifier/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/in_series/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/in_series/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/is_about_activity/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/is_about_activity/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/is_about_entity/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/is_about_entity/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/is_referenced_by/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/is_referenced_by/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/keyword/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/keyword/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/landing_page/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/landing_page/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/language/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/language/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/licence/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/licence/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/linked_schemas/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/linked_schemas/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/listing_date/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/listing_date/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/media_type/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/media_type/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/modification_date/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/modification_date/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/name/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/name/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/notation/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/notation/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/occurred_in/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/occurred_in/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/other_identifier/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/other_identifier/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/packaging_format/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/packaging_format/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/part_of/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/part_of/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/preferred_label/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/preferred_label/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/primary_topic/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/primary_topic/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/provenance/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/provenance/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/publisher/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/publisher/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/qualified_attribution/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/qualified_attribution/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/qualified_relation/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/qualified_relation/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/rdf_type/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/rdf_type/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/realized_plan/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/realized_plan/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/record/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/record/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/related_resource/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/related_resource/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/relation/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/relation/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/release_date/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/release_date/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/rights/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/rights/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/sample/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/sample/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/serves_dataset/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/serves_dataset/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/service/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/service/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/source/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/source/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/source_metadata/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/source_metadata/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/spatial_resolution/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/spatial_resolution/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/start_date/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/start_date/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/status/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/status/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/temporal_coverage/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/temporal_coverage/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/temporal_resolution/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/temporal_resolution/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/theme/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/theme/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/themes/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/themes/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/title/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/title/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/type/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/type/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/unit/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/unit/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/value/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/value/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/version/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/version/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/version_notes/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/version_notes/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/was_generated_by/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/slots/was_generated_by/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/subsets/DomainAgnosticCore/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/subsets/DomainAgnosticCore/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Boolean/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Boolean/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Curie/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Curie/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Date/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Date/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/DateOrDatetime/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/DateOrDatetime/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Datetime/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Datetime/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Decimal/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Decimal/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Double/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Double/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Duration/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Duration/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Float/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Float/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/HexBinary/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/HexBinary/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Integer/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Integer/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Jsonpath/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Jsonpath/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Jsonpointer/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Jsonpointer/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Ncname/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Ncname/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Nodeidentifier/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Nodeidentifier/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/NonNegativeInteger/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/NonNegativeInteger/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Objectidentifier/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Objectidentifier/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Sparqlpath/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Sparqlpath/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/String/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/String/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Time/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Time/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Uri/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Uri/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Uriorcurie/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/elements/types/Uriorcurie/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/schema/</loc>
+         <loc>https://hendrikborgelt.github.io/test_dcat_ap_plus_versioning_freeze/latest/schema/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
 </urlset>

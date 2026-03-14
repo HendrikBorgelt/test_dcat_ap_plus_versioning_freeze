@@ -1,6 +1,6 @@
 ---
 id: https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze/
-version: "0.0.0.post5.dev0+f0d6de5"  # Managed by dynamic-versioning. Don't change this line!
+version: "0.0.0.post7.dev0+27fba37"  # Managed by dynamic-versioning. Don't change this line!
 name: dcat-ap-plus
 description: >-
   This metadata schema is an Extension of the DCAT Application Profile
