@@ -88,28 +88,3 @@ jobs:
           uv run mike deploy --push --update-aliases ${{ github.ref_name }} latest
           uv run mike set-default latest --push
 
-      # -----------------------------------------------------------------------
-      # DOWNSTREAM NOTIFICATION
-      #
-      # After a successful release, trigger a repository_dispatch event in
-      # test_chemDCAT_ap_versioning_freeze so it can open a compatibility
-      # freeze PR automatically.
-      #
-      # Requires the secret DOWNSTREAM_NOTIFY_PAT to be set in this repo:
-      # a fine-grained PAT (or classic PAT with 'repo' scope) that has
-      # "Contents: Read and write" access on test_chemDCAT_ap_versioning_freeze.
-      # See for_direct_implementation_at_chemdcat_ap/README.md for setup.
-      # -----------------------------------------------------------------------
-      - name: Notify downstream repos of new release
-        if: github.ref_type == 'tag' && github.event_name == 'push'
-        env:
-          GH_TOKEN: ${{ secrets.DOWNSTREAM_NOTIFY_PAT }}
-        run: |
-          curl -s -o /dev/null -w "%{http_code}" -X POST \
-            -H "Authorization: Bearer ${GH_TOKEN}" \
-            -H "Accept: application/vnd.github.v3+json" \
-            -H "Content-Type: application/json" \
-            https://api.github.com/repos/HendrikBorgelt/test_chemDCAT_ap_versioning_freeze/dispatches \
-            -d "{\"event_type\":\"upstream-release\",\"client_payload\":{\"version\":\"${{ github.ref_name }}\",\"repo\":\"${{ github.repository }}\"}}" \
-          | grep -q "^204$" && echo "Dispatch sent successfully." \
-          || echo "WARNING: dispatch may have failed (check DOWNSTREAM_NOTIFY_PAT secret)."
