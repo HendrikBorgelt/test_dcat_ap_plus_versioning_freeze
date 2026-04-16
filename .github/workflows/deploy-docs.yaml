@@ -59,6 +59,41 @@ jobs:
       - name: Install dependencies
         run: uv sync --dev --no-progress
 
+      # -----------------------------------------------------------------------
+      # VERSION FREEZE (release tags only)
+      #
+      # Versions the dcatapplus: prefix value in the working copy so that
+      # every deployed snapshot carries the version in its own namespace URI.
+      # This is required for downstream schemas (e.g. chem-dcat-ap) to freeze
+      # their dcatapplus: prefix consistently — both schemas must agree on the
+      # versioned prefix value when combined by LinkML's import resolution.
+      #
+      # e.g. dcatapplus: https://.../  ->  dcatapplus: https://.../v0.5.0/
+      #
+      # NOT committed to git — source stays with the base (unversioned) prefix.
+      # -----------------------------------------------------------------------
+      - name: Freeze dcatapplus prefix to current version tag
+        if: github.ref_type == 'tag' && github.event_name == 'push'
+        run: |
+          python3 - <<'EOF'
+          import pathlib, sys
+          tag = "${{ github.ref_name }}"
+          base = "https://HendrikBorgelt.github.io/test_dcat_ap_plus_versioning_freeze"
+          schema_dir = pathlib.Path("src/dcat_ap_plus/schema")
+          changed = []
+          for f in schema_dir.glob("*.yaml"):
+              text = f.read_text(encoding="utf-8")
+              old = f"dcatapplus: {base}/\n"
+              new = f"dcatapplus: {base}/{tag}/\n"
+              if old in text:
+                  f.write_text(text.replace(old, new), encoding="utf-8")
+                  changed.append(f.name)
+          if changed:
+              print(f"Froze dcatapplus prefix to {tag} in: {', '.join(changed)}")
+          else:
+              print(f"Warning: dcatapplus prefix base '{base}/' not found in schema files")
+          EOF
+
       - name: Generate schema documentation
         run: |
           just gen-doc
